@@ -1,0 +1,5 @@
+/*!--------------------------------------------------------
+ * Copyright (C) Microsoft Corporation. All rights reserved.
+ *--------------------------------------------------------*/
+define("vs/workbench/services/search/node/searchApp.nls.fr",{"vs/base/common/errorMessage":["{0}. Code d'erreur : {1}","Autorisation refusée (HTTP {0})","Autorisation refusée","{0} (HTTP {1} : {2})","{0} (HTTP {1})","Erreur de connexion inconnue ({0})","Une erreur de connexion inconnue s'est produite. Soit vous n'êtes plus connecté à Internet, soit le serveur auquel vous êtes connecté est hors connexion.","{0} : {1}","Une erreur inconnue s’est produite. Veuillez consulter le journal pour plus de détails.","Une erreur système s'est produite ({0})","Une erreur inconnue s’est produite. Veuillez consulter le journal pour plus de détails.","{0} ({1} erreurs au total)","Une erreur inconnue s’est produite. Veuillez consulter le journal pour plus de détails."]});
+//# sourceMappingURL=https://ticino.blob.core.windows.net/sourcemaps/02611b40b24c9df2726ad8b33f5ef5f67ac30b44/core/vs/workbench/services/search/node/searchApp.nls.fr.js.map

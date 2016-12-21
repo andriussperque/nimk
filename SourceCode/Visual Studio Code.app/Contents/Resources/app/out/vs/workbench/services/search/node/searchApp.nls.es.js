@@ -1,0 +1,5 @@
+/*!--------------------------------------------------------
+ * Copyright (C) Microsoft Corporation. All rights reserved.
+ *--------------------------------------------------------*/
+define("vs/workbench/services/search/node/searchApp.nls.es",{"vs/base/common/errorMessage":["{0}. Código de error: {1}","Permiso denegado (HTTP {0})","Permiso denegado","{0} (HTTP {1}: {2})","{0} (HTTP {1})","Error de conexión desconocido ({0})","Error de conexión desconocido. Es posible que ya no esté conectado a Internet o que el servidor al que se había conectado esté sin conexión.","{0}: {1}","Se ha producido un error desconocido. Consulte el registro para obtener más detalles.","Error del sistema ({0})","Se ha producido un error desconocido. Consulte el registro para obtener más detalles.","{0} ({1} errores en total)","Se ha producido un error desconocido. Consulte el registro para obtener más detalles."]});
+//# sourceMappingURL=https://ticino.blob.core.windows.net/sourcemaps/02611b40b24c9df2726ad8b33f5ef5f67ac30b44/core/vs/workbench/services/search/node/searchApp.nls.es.js.map
